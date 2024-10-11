@@ -123,7 +123,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: '/img/me.png',
+      avatar: 'https://raw.githubusercontent.com/zcy946/blog/refs/heads/gh-pages/img/me.png',
       name: '夏黎辰',
       slogan: 'Learning...', // 标语
     },
